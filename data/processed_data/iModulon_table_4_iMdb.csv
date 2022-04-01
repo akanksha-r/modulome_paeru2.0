@@ -1,0 +1,117 @@
+iModulon_number,iModulon_name,regulator,pvalue,qvalue,precision,recall,f1score,TP,regulon_size,imodulon_size,n_regs,Exp_variance,Category,Operon,Function
+0,LexA,LexA,4.22E-27,7.63E-23,0.64705882,0.73333333,0.6875,11,15,17,1,0.3407898831,Stress response,multiple operon,SOS response for DNA protection and repair
+1,EatR,EatR,1.25E-13,1.13E-09,0.8,1,0.88888889,4,4,5,1,0.1604151131,Amino Acid and Nucleotide Biosynthesis,PA4022-eat-eutBC,Ethanolamine utilization
+2,PrrF,PrrF,0.000004,0.000004,0.181818,1,0.307692,2,2,11,1,0.1296302147,Amino Acid and Nucleotide Biosynthesis,leuBDC,2-Oxocarboxylic acid metabolism
+3,RpoS-2,RpoS/Sfa3,7.74E-21,1.40E-16,0.15384615,0.53333333,0.23880597,16,30,104,2,2.803783367,Stress response,"coxAB-coIII, others",General stress response
+4,CbrB,CbrB,1.31E-06,0.00592076,0.17647059,0.375,0.24,3,8,17,1,0.5259786623,Amino Acid and Nucleotide Biosynthesis,spuABC,Polyamine catabolism
+5,CueR,CueR,1.96E-32,3.54E-28,0.84615385,1,0.91666667,11,11,13,1,0.2333298139,Metal Homeostasis,PA3515-PA3522,Copper adaptation/transport
+6,Translational-2,Translational,,,,,,,,,,0.06968833085,Translational,Multiple,
+7,PprB,PprB,3.47E-13,6.28E-09,0.25,1,0.4,5,5,20,1,0.8097713226,Structural Components,tadDCBAZ,Flp pilus assembly protein
+8,PhhR-1,PhhR/HmgR,9.20E-29,1.67E-24,0.90909091,0.83333333,0.86956522,10,12,11,2,0.3664546142,Amino Acid and Nucleotide Biosynthesis,"phhCBA, dhcBA","Phenylalanine, tyrosine and tryptophan biosynthesis"
+9,DhcR,DhcR,6.94E-10,1.26E-05,0.5,1,0.66666667,3,3,6,1,0.2501428838,Amino Acid and Nucleotide Biosynthesis,atoDABE,Carnitine catabolism
+10,EutR,EutR,0,0,1,1,1,5,5,5,1,0.2437770546,Amino Acid and Nucleotide Biosynthesis,PA5506-PA5510 (eutBAT),Ethanolamine catabolism
+11,ExsB,ExsB,1.03E-29,1.86E-25,0.33333333,1,0.5,13,13,39,1,0.9185979102,Secretion system,pscBCDEFGHIJKL,T3SS system
+12,Singlet-1,Singlet,,,,,,,,,,0.07136320284,Singlet,Singlet,
+13,SoxR,SoxR,4.73E-18,8.55E-14,0.75,0.85714286,0.8,6,7,8,1,0.2245987012,Antibiotics resistance,mexGHI-OmpD,RND efflux pump
+14,Singlet-2,Singlet,,,,,,,,,,0.1157300813,Singlet,Singlet,
+15,Singlet-3,Singlet,,,,,,,,,,0.09324583882,Singlet,Singlet,
+16,NagQ,NagQ/GbuR,8.33E-15,1.51E-10,0.35294118,0.75,0.48,6,8,17,2,0.1616050029,Carbon Source Utilization,nagAFE-PA3759,N-acetylglucosamine catabolism
+17,ErbR-2,ErbR,1.12E-26,1.01E-22,0.625,0.90909091,0.74074074,10,11,16,1,0.3450258448,Miscellaneous Metabolism,"ppqABCDEF, exaAB, and eraSR",PQQ biosynthesis
+18,Uncharacterized-6,Uncharacterized,,,,,,,,,,0.2670030064,Uncharacterized,Multiple,
+19,TagR1,TagR1,1.12E-37,2.03E-33,0.17322835,1,0.29530201,22,22,127,1,1.140890633,Secretion system,pppA-ppkA,H1-Type VI secretion system
+20,GcsR,GcsR,0,0,1,1,1,5,5,5,1,0.2047897598,Amino Acid and Nucleotide Biosynthesis,gcv operon,Glycine cleavage
+21,BexR,BexR,2.14E-20,3.87E-16,0.34782609,1,0.51612903,8,8,23,1,0.2772673413,Miscellaneous Metabolism,PA1202 and aprA operon,Virulence factor AprA
+22,Uncharacterized-11,Uncharacterized,,,,,,,,,,0.1546412036,Uncharacterized,Multiple,
+23,EsrC,EsrC,9.92E-09,2.99E-05,0.23076923,1,0.375,3,3,13,1,0.3440706239,Antibiotics resistance,mexCD-OprJ,RND efflux pump
+24,Sfa2,Sfa2,1.49E-38,2.69E-34,0.5,1,0.66666667,16,16,32,1,0.7381489023,Secretion system,hsiF2G2B2C2H2J2,H2-T6SS/Secretion system (VI)
+25,Uncharacterized-5,Uncharacterized,,,,,,,,,,0.0863397559,Uncharacterized,Multiple,
+26,MexS-1,MexS/MexZ,1.81E-12,1.63E-08,0.18518519,1,0.3125,5,5,27,2,1.247522634,Antibiotics resistance,PA2481-PA2495,RND efflux pump
+27,Translational-1,Translational,,,,,,,,,,1.919431357,Translational,Multiple,
+28,Uncharacterized-8,Uncharacterized,,,,,,,,,,0.2501744109,Translational,Multiple,
+29,FoxR,FoxR,0.000089,0.000178,0.037736,1,0.072727,2,2,53,1,1.298672998,Metal Homeostasis,foxIRA and PfeSR,Iron chelator
+30,XisF4-2,XisF4,0,0,1,1,1,11,11,11,1,0.3053253244,Prophages,PA0718-PA0728,Excision of Pf4 prophage
+31,GlpR,GlpR,1.21E-09,2.20E-05,0.42857143,1,0.6,3,3,7,1,0.2457604495,Carbon Source Utilization,glpFKD,Glycerol-3-phosphate metabolism
+32,ArgR-1,ArgR/Sigma factor X,8.28E-47,1.50E-42,0.55263158,0.91304348,0.68852459,21,23,38,2,0.5241561687,Amino Acid and Nucleotide Biosynthesis,"aruBCDEFG,arcBD, atoJQMP",Arginine catabolism and biosynthesis
+33,Singlet-4,Singlet,,,,,,,,,,0.06225293196,Singlet,Singlet,
+34,Uncharacterized-3,Uncharacterized,,,,,,,,,,0.2095330944,Uncharacterized,Multiple,
+35,QscR-2,QscR,4.27E-32,2.58E-28,0.66666667,0.66666667,0.66666667,14,21,21,1,2.699947872,Biosynthetic gene cluster,"PA1899-PA1905, PA4208-PA4217",Phenazine/Pyocyanin biosynthesis
+36,PtxS,GntR/PtxS,1.00E-20,1.81E-16,1,0.63636364,0.77777778,7,11,7,2,0.2008473866,Carbon Source Utilization,kguEKTD,2-ketogluconate metabolism
+37,QscR-1,QscR,3.53E-18,6.38E-14,1,0.33333333,0.5,7,21,7,1,0.3560923543,Quorum sensing,PA1891-PA1897,PA1891-PA1897 novel operon
+38,AmpC,AmpC,0.000001,0.000001,0.285714,1,0.444444,2,2,7,1,0.2354426642,Antibiotics resistance,"PA0465-PA0467, PA4110-PA4112",beta-lactamases
+39,AtuR,AtuR/LaoR,4.47E-26,8.09E-22,0.47619048,1,0.64516129,10,10,21,2,0.1926844913,Carbon Source Utilization,atuABCDEFG,Geraniol degradation
+40,Zur-2,Zur/yybP-ykoY,6.68E-37,1.21E-32,0.32727273,0.94736842,0.48648649,18,19,55,2,0.9979041042,Metal Homeostasis,"PA5498-PA5501, PA5534-PA5541",Zinc uptake
+41,LiuR,PrpR/LiuR,2.63E-26,4.77E-22,0.47826087,0.84615385,0.61111111,11,13,23,2,0.6978002674,Amino Acid and Nucleotide Biosynthesis,liuEDCBA,Homogentisate pathway
+42,RpoS-1,AlgU/RpoN,3.50E-07,0.00632739,0.06666667,0.2037037,0.10045662,11,54,165,2,1.243039095,Stress response,PA2161-PA2171,General stress response
+43,RiPP,RiPP,,,,,,,,,,0.1869919417,Biosynthetic gene cluster,PA3281-PA3284,RiPP like gene cluster (Hypochlorite sensing)
+44,FleN-2,FleN,8.41E-29,7.61E-25,0.43333333,0.8125,0.56521739,13,16,30,1,0.3018773588,Structural Components,flgBCDEFL,Bacterial chemotaxis
+45,PA1226,PA1226,,,,,,,,,,0.9732787187,Structural Components,wbpABDEGHIJKL wzz,Lipopolysaccharide synthesis
+46,Singlet-5,Singlet,,,,,,,,,,0.08546960722,Singlet,Singlet,
+47,AmiE,AmiE,1.03E-14,1.87E-10,0.45454545,1,0.625,5,5,11,1,0.6255112096,Amino Acid and Nucleotide Biosynthesis,PA2110-PA2114,AHL synthesis
+48,SouR,SouR/DguR,1.69E-15,1.53E-11,0.24137931,0.77777778,0.36842105,7,9,29,2,0.4755544836,Amino Acid and Nucleotide Biosynthesis,soxBDAG,Sarcosine Catabolism
+49,RpoN,RpoN,3.96E-89,7.16E-85,0.72131148,0.88,0.79279279,44,50,61,1,0.8843598165,Carbon Source Utilization,glgBP-katE,Starch and sucrose metabolism
+50,DguR,DguR,1.39E-10,2.51E-06,0.75,1,0.85714286,3,3,4,1,0.1041819394,Amino Acid and Nucleotide Biosynthesis,dguCBA,D-glu utilization
+51,PvdS,PvdS,1.16E-20,6.98E-17,0.3030303,0.71428571,0.42553191,10,14,33,1,2.128247722,Biosynthetic gene cluster,pvdRT-ompQ or pvdNOFEADJ,Pyoverdine synthesis
+52,Singlet-6,Singlet,,,,,,,,,,0.0656159252,Singlet,Singlet,
+53,AmrZ,RsmA/AmrZ,5.35E-25,9.68E-21,0.27777778,0.57692308,0.375,15,26,54,2,0.356308217,Structural Components,pslDEFGHJK,Exopolysaccharide biosynthesis
+54,Singlet-7,Singlet,,,,,,,,,,0.07020591764,Singlet,Singlet,
+55,Singlet-8,Singlet,,,,,,,,,,0.08624296039,Singlet,Singlet,
+56,Uncharacterized-1,Uncharacterized,,,,,,,,,,0.1774817586,Uncharacterized,Multiple,
+57,HutC,HutC,1.08E-35,1.96E-31,0.72222222,1,0.83870968,13,13,18,1,0.7033678329,Amino Acid and Nucleotide Biosynthesis,hutFCUHIG,Histidine utilization
+58,FruR,LldR/FruR,5.78E-13,1.04E-08,0.45454545,0.625,0.52631579,5,8,11,2,0.1521030477,Carbon Source Utilization,fruAKI,Fructose and mannose metabolism/Pentose phosphate pathway
+59,NRPS,NRPS,,,,,,,,,,1.535722685,Biosynthetic gene cluster,PA3326-PA3336,Nonribosomal peptide synthetase
+60,RsmA,RsmA,7.01E-18,6.34E-14,0.77777778,0.46666667,0.58333333,7,15,9,1,0.8429704842,Carbon Source Utilization,kguEKTD,2-ketogluconate metabolism
+61,FpvR,FpvR,1.96E-24,5.92E-21,0.8,1,0.88888889,8,8,10,1,0.6706194546,Metal Homeostasis,fpvGHJKCDEF,Ferripyoveridine system
+62,RoxR,RoxR,1.56E-07,0.00112712,0.09677419,1,0.17647059,3,3,31,1,0.452920325,Energy Metabolism,coxAB-coIII,Cytochrome oxidases
+63,AtsR,AtsR,1.52E-06,0.00914163,0.04615385,1,0.08823529,3,3,65,1,1.189026703,Metal Homeostasis,atsABC,ABC transporter (Sulphur metabolism)
+64,CysB-2,CysB/YdfF,1.31E-11,2.38E-07,0.12280702,0.53846154,0.2,7,13,57,2,2.364259258,Metal Homeostasis,Metal Homeostasis,ABC transporter (Sulphur metabolism)
+65,MexS-2,GlcC/MexS,1.03E-15,9.34E-12,0.21212121,0.875,0.34146341,7,8,33,2,0.4615727479,Antibiotics resistance,multiple operon,RND efflux pump
+66,MvfR,MvfR,1.00E-20,1.81E-16,1,0.63636364,0.77777778,7,11,7,1,0.5493870615,Miscellaneous Metabolism,pqsABCDE or PhnAB,PQS signalling
+67,MexZ,MexZ,0.0000006442964,0.0000006442964,0.4,1,0.571429,2,2,5,1,0.04702204588,Antibiotics resistance,mexXYZ,Aminoglycoside resistance
+68,MdcR,MdcR,1.09E-21,1.98E-17,0.77777778,1,0.875,7,7,9,1,0.3385443128,Miscellaneous Metabolism,mdcABCDEGH,Malonate synthesis
+69,PchR,PchR,5.04E-26,9.13E-22,0.69230769,1,0.81818182,9,9,13,1,0.9852524345,Biosynthetic gene cluster,pchBCDA and pchEFGHI,Pyochelin synthesis
+70,ErbR-1,LldR/ErbR,5.04E-12,9.12E-08,0.16666667,0.46666667,0.24561404,7,15,42,2,0.4417213342,Amino Acid and Nucleotide Biosynthesis,pqqABCDEH,Pyrroloquinoline quinone biosynthesis
+71,Sigma-70,Sigma-70,5.63E-67,1.02E-62,0.6,1,0.75,30,30,50,1,1.158006866,Prophages,PA0614-PA0645,Prophages (YMC11/02/R656)
+72,HexR-2,HexR,3.93E-25,7.10E-21,1,0.88888889,0.94117647,8,9,8,1,0.3378959887,Carbon Source Utilization,"gltR,glk,edd,gapA",Glucose metabolism
+73,CysB-1,YdfF/CysB,1.64E-15,2.97E-11,0.38888889,0.53846154,0.4516129,7,13,18,2,1.102353088,Metal Homeostasis,ssuABCDEF and tauABCD,Sulfonate utilization operons
+74,HypR,HypR,3.88E-27,3.51E-23,1,0.81818182,0.9,9,11,9,1,0.2163378739,Amino Acid and Nucleotide Biosynthesis,lhpGCKONMHP,Redox-sensing
+75,Singlet-9,Singlet,,,,,,,,,,0.0892057102,Singlet,Singlet,
+76,Uncharacterized-10,Uncharacterized,,,,,,,,,,0.3973223565,Uncharacterized,Multiple,
+77,LasR,LasR/MvfR,1.46E-23,2.64E-19,0.35294118,0.63157895,0.45283019,12,19,34,2,1.236324969,Metal Homeostasis,aprDEFA and ambEDCB,Pyochelin biosynthesis and Secretion (I) system
+78,XisF4-1,CueR/XisF4,2.50E-08,0.00045259,0.08045977,0.31818182,0.12844037,7,22,87,2,0.5279604572,Prophages,"PAO724-PAO728, Others",Excision of Pf4 prophage
+79,Uncharacterized-7,Uncharacterized,,,,,,,,,,0.1627999409,Uncharacterized,Multiple,
+80,AauR,AauR,8.72E-13,1.58E-08,0.57142857,1,0.72727273,4,4,7,1,0.2324929052,Amino Acid and Nucleotide Biosynthesis,aatPMQJ,D-Glutamate transport
+81,Uncharacterized-2,Uncharacterized,,,,,,,,,,0.22999402,Uncharacterized,Multiple,
+82,AntR,AntR,6.75E-19,1.22E-14,0.75,1,0.85714286,6,6,8,1,0.3942287315,Miscellaneous Metabolism,antABC and catBCA,Degradation of anthranilate to tricarboxylic acid cycle intermediates
+83,Anr-1,Anr,6.10E-16,1.10E-11,0.53333333,0.2962963,0.38095238,8,27,15,1,0.4404896997,Metal Homeostasis,moaB1EDC,Molybdenum cofactor biosynthesis
+84,Iron acquisition,Iron acquisition,,,,,,,,,,1.561747124,Metal Homeostasis,Multiple,Iron acquisition
+85,RpoH,RpoH,2.20E-12,3.98E-08,0.17857143,1,0.3030303,5,5,28,1,0.6183712132,Heat Shock Response,Stress response,Heat Shock Response
+86,k-opioid,k-opioid,0,0,1,1,1,11,11,11,1,0.4168171385,Biosynthetic gene cluster,PA1211-PA1221,Nonribosomal peptide synthetase (Pyoveridine)
+87,CpxR,CpxR/ParB,5.62E-12,1.02E-07,0.35714286,0.55555556,0.43478261,5,9,14,2,0.2039665059,Antibiotics resistance,muxABC-OpmB,Various stress response
+88,HexR-1,HexR/GltR,1.28E-32,2.32E-28,0.75,0.92307692,0.82758621,12,13,16,2,1.113203908,Carbon Source Utilization,gltKGFB,Glucose metabolism
+89,PmrA,PmrA,2.35E-18,4.25E-14,0.35,1,0.51851852,7,7,20,1,0.4286561995,Antibiotics resistance,arnBCADTEF,Polymyxins resistance
+90,Uncharacterized-9,Uncharacterized,,,,,,,,,,0.9876392402,Uncharacterized,Multiple,
+91,Singlet-10,Singlet,,,,,,,,,,0.06366538553,Singlet,Singlet,
+92,Anr-2,NorR/Dnr,9.04E-37,1.64E-32,0.56666667,0.73913043,0.64150943,17,23,30,2,0.6692397448,Amino Acid and Nucleotide Biosynthesis,moaB1EDC,Molybdenum cofactor biosynthesis
+93,FleN-1,FleN/AmpR,2.20E-09,3.98E-05,0.14285714,0.33333333,0.2,6,18,42,2,0.3846200562,Structural Components,"flgBCEFL, others",Bacterial chemotaxis
+94,Lrp,lrp,3.47E-10,6.28E-06,0.6,1,0.75,3,3,5,1,0.1449750226,Amino Acid and Nucleotide Biosynthesis,dadXA,Alanine catabolism
+95,Singlet-11,Singlet,,,,,,,,,,0.09014391809,Singlet,Singlet,
+96,Zur-1,Zur/Cobalamin,1.73E-13,3.13E-09,0.44444444,0.19512195,0.27118644,8,41,18,2,0.09594070081,Metal Homeostasis,"PA1919-PA1924, PA2911-PA2914, others",Zinc uptake
+97,MmsR,PrpR/MmsR,5.73E-10,1.04E-05,0.36363636,0.5,0.42105263,4,8,11,2,0.5401238498,Amino Acid and Nucleotide Biosynthesis,atoDABE,Carnitine catabolism
+98,PhnR-2,PhnF/PhnR,3.01E-07,0.00544762,0.13513514,0.2173913,0.16666667,5,23,37,2,0.2061630238,Metal Homeostasis,phnJIHGFEDC or pstBACS,Phosphate transport
+99,Anr-3,Dnr/NarL,2.11E-18,3.82E-14,0.8,0.32,0.45714286,8,25,10,2,0.2693543536,Amino Acid and Nucleotide Biosynthesis,narIJHGK2K1,Nitrate reductases
+100,Uncharacterized-4,Uncharacterized,,,,,,,,,,0.3913028605,Uncharacterized,Multiple,
+101,CzcR,Fur/CzcR,6.52E-15,1.18E-10,0.12903226,0.8,0.22222222,8,10,62,2,0.6282958256,Antibiotics resistance,czcABC,Resistance-nodulation-cell division (RND) divalent metal cation
+102,Cell Division,,,,,,,,,,,1.399848824,Structural Components,ftsAmurC-murF,Cell wall biosynthesis
+103,Uncharacterized-12,Uncharacterized,,,,,,,,,,2.330217736,Uncharacterized,Multiple,
+104,AcoR,AcoR,1.69E-19,3.05E-15,0.85714286,1,0.92307692,6,6,7,1,0.2314819325,Carbon Source Utilization,acoXABC,"2,3-butanediol and acetoin catabolism"
+105,Translational-3,Translational,,,,,,,,,,2.279287657,Translational,Multiple,
+106,NarL,Dnr/NarL,6.60E-11,1.19E-06,0.625,0.2,0.3030303,5,25,8,2,0.2667043316,Amino Acid and Nucleotide Biosynthesis,narIJHGK2K1,Denitrification (Nitrate)
+107,Uncharacterized-13,Uncharacterized,,,,,,,,,,0.3839273107,Uncharacterized,Multiple,
+108,Singlet-12,Singlet,,,,,,,,,,0.04856767356,Singlet,Singlet,
+109,AHL,AHL,1.25E-13,2.25E-09,0.8,1,0.88888889,4,4,5,1,0.4599607423,Quorum sensing,PA1891-PA1897,AHL synthesis
+110,LaoR,MvaT/LaoR,5.39E-10,9.74E-06,0.13513514,0.625,0.22222222,5,8,37,2,0.4280972125,Carbon Source Utilization,PA0364-PA0366,Oxidation of Long-Chain Alcohols
+111,Fur,Fur,4.70E-16,8.50E-12,1,0.71428571,0.83333333,5,7,5,1,0.3383816421,Metal Homeostasis,cyoABCDE,Uncharaterized
+112,Anr-4,Anr+Dnr,5.61E-22,1.02E-17,1,0.5,0.66666667,8,16,8,2,0.1704444644,Amino Acid and Nucleotide Biosynthesis,PA0509-PA0516,Nitrite reductases
+113,Quorum sensing,Quorum sensing,,,,,,,,,,0.9956917292,Quorum sensing,"PA2066-PA2069, Others",Quorum sensing
+114,CysB-3,YdfF,1.58E-08,0.00028564,0.2,1,0.33333333,3,3,15,1,0.3469383782,Metal Homeostasis,"cysAWT, Others",ABC transporter (Sulphur metabolism)
+115,Uncharacterized-14,Uncharacterized,,,,,,,,,,1.007340271,Uncharacterized,Multiple,

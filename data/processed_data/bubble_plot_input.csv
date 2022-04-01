@@ -1,0 +1,79 @@
+iModulon_number,iModulon_name,regulator,pvalue,qvalue,recall,precision,f1score,TP,regulon_size,imodulon_size,n_regs,Exp_variance,function,color,Exp_var_percent
+25,NarL-1,Dnr/NarL,3.56E-13,6.34E-09,0.24,0.66666667,0.35294118,6,25,9,2,0.28,Amino Acid and Nucleotide Biosynthesis,#29abe2,28
+27,NarL-2,Dnr/NarL,2.11E-18,3.76E-14,0.32,0.8,0.45714286,8,25,10,2,0.3,Amino Acid and Nucleotide Biosynthesis,#29abe2,30
+11,CbrB,CbrB,1.31E-06,0.00583305,0.375,0.17647059,0.24,3,8,17,1,0.3,Amino Acid and Nucleotide Biosynthesis,#29abe2,30
+55,MmsR,PrpR/MmsR,2.32E-07,0.00413693,0.375,0.3,0.33333333,3,8,10,2,0.5,Amino Acid and Nucleotide Biosynthesis,#29abe2,50
+67,ErbR-1,LldR/ErbR,5.04E-12,8.98E-08,0.46666667,0.16666667,0.24561404,7,15,42,2,0.47,Amino Acid and Nucleotide Biosynthesis,#29abe2,47
+3,Anr-2,NorR/Dnr/Anr,9.04E-37,1.61E-32,0.73913043,0.56666667,0.64150943,17,23,30,2,0.74,Amino Acid and Nucleotide Biosynthesis,#29abe2,74
+50,SouR,SouR/DguR,1.69E-15,1.51E-11,0.77777778,0.24137931,0.36842105,7,9,29,2,0.45,Amino Acid and Nucleotide Biosynthesis,#29abe2,45
+60,HypR,HypR,3.88E-27,3.46E-23,0.81818182,1,0.9,9,11,9,1,0.2,Amino Acid and Nucleotide Biosynthesis,#29abe2,20
+40,PhhR,PhhR/HmgR,9.20E-29,1.64E-24,0.83333333,0.90909091,0.86956522,10,12,11,2,0.32,Amino Acid and Nucleotide Biosynthesis,#29abe2,32
+94,ArgR-1,ArgR/Sigma factor X,8.28E-47,1.48E-42,0.91304348,0.55263158,0.68852459,21,23,38,2,0.36,Amino Acid and Nucleotide Biosynthesis,#29abe2,36
+86,LiuR,PrpR/LiuR,1.90E-29,3.38E-25,0.92307692,0.5,0.64864865,12,13,24,2,0.65,Amino Acid and Nucleotide Biosynthesis,#29abe2,65
+12,EutR,EutR,0,0,1,1,1,5,5,5,1,0.26,Amino Acid and Nucleotide Biosynthesis,#29abe2,26
+13,DhcR,DhcR,6.94E-10,1.24E-05,1,0.5,0.66666667,3,3,6,1,0.25,Amino Acid and Nucleotide Biosynthesis,#29abe2,25
+15,HutC,HutC,1.08E-35,1.93E-31,1,0.72222222,0.83870968,13,13,18,1,0.81,Amino Acid and Nucleotide Biosynthesis,#29abe2,81
+21,DguR,DguR,1.39E-10,2.47E-06,1,0.75,0.85714286,3,3,4,1,0.11,Amino Acid and Nucleotide Biosynthesis,#29abe2,11
+35,EatR,EatR,1.25E-13,1.11E-09,1,0.8,0.88888889,4,4,5,1,0.15,Amino Acid and Nucleotide Biosynthesis,#29abe2,15
+54,AmiE,AmiE,1.03E-14,1.84E-10,1,0.45454545,0.625,5,5,11,1,0.61,Amino Acid and Nucleotide Biosynthesis,#29abe2,61
+57,PrrF,PrrF,0.000004,0.000004,1,0.181818,0.307692,2,2,11,1,0.14,Amino Acid and Nucleotide Biosynthesis,#29abe2,14
+68,GcsR,GcsR,0,0,1,1,1,5,5,5,1,0.21,Amino Acid and Nucleotide Biosynthesis,#29abe2,21
+77,AauR,AauR,8.72E-13,1.55E-08,1,0.57142857,0.72727273,4,4,7,1,0.28,Amino Acid and Nucleotide Biosynthesis,#29abe2,28
+95,Lrp,Lrp,3.47E-10,3.47E-10,1,0.6,0.75,3,3,5,1,0.13,Amino Acid and Nucleotide Biosynthesis,#29abe2,13
+1,CpxR,CpxR/ParB,5.62E-12,1.00E-07,0.55555556,0.35714286,0.43478261,5,9,14,2,0.22,Antibiotics resistance,#8cc63f,22
+56,MexS-1,MexS/EsrC,5.55E-09,1.65E-05,0.66666667,0.15384615,0.25,4,6,26,2,1.2,Antibiotics resistance,#8cc63f,120
+61,CzcR,Fur/CzcR,7.47E-15,1.33E-10,0.8,0.12698413,0.21917808,8,10,63,2,0.61,Antibiotics resistance,#8cc63f,61
+52,SoxR,SoxR,4.73E-18,8.42E-14,0.85714286,0.75,0.8,6,7,8,1,0.22,Antibiotics resistance,#8cc63f,22
+79,MexS-2,GlcC/MexS,8.14E-16,7.25E-12,0.875,0.21875,0.35,7,8,32,2,0.52,Antibiotics resistance,#8cc63f,52
+51,AmpC,AmpC,0.000001,0.000001,1,0.285714,0.444444,2,2,7,1,0.21,Antibiotics resistance,#8cc63f,21
+70,PmrA,PmrA,2.35E-18,4.19E-14,1,0.35,0.51851852,7,7,20,1,0.49,Antibiotics resistance,#8cc63f,49
+74,EsrC,EsrC,7.63E-09,2.27E-05,1,0.25,0.4,3,3,12,1,0.33,Antibiotics resistance,#8cc63f,33
+92,MexZ,MexZ,6.44E-07,6.44E-07,1,0.4,0.571429,2,2,5,1,0.05,Antibiotics resistance,#8cc63f,5
+46,QscR-2,SoxR/QscR,1.24E-33,2.21E-29,0.53571429,0.78947368,0.63829787,15,28,19,2,2.78,Biosynthetic gene cluster,#cccccc,278
+5,PvdS,PvdS,5.34E-18,3.17E-14,0.64285714,0.27272727,0.38297872,9,14,33,1,1.63,Biosynthetic gene cluster,#cccccc,163
+18,k-opioid,k-opioid,0,0,1,1,1,11,11,11,1,0.54,Biosynthetic gene cluster,#cccccc,54
+38,PchR,PchR,5.04E-26,8.99E-22,1,0.69230769,0.81818182,9,9,13,1,0.86,Biosynthetic gene cluster,#cccccc,86
+65,RsmA,RsmA,7.01E-18,6.25E-14,0.46666667,0.77777778,0.58333333,7,15,9,1,0.66,Carbon Source Utilization,#c69c6d,66
+26,FruR,LldR/FruR,5.78E-13,1.03E-08,0.625,0.45454545,0.52631579,5,8,11,2,0.16,Carbon Source Utilization,#c69c6d,16
+30,LaoR,MvaT/LaoR,7.11E-10,1.27E-05,0.625,0.12820513,0.21276596,5,8,39,2,0.44,Carbon Source Utilization,#c69c6d,44
+0,PtxS,GntR/PtxS,1.00E-20,1.78E-16,0.63636364,1,0.77777778,7,11,7,2,0.18,Carbon Source Utilization,#c69c6d,18
+82,NagQ,NagQ/GbuR,8.33E-15,1.48E-10,0.75,0.35294118,0.48,6,8,17,2,0.18,Carbon Source Utilization,#c69c6d,18
+20,RpoN,RpoN,3.96E-89,7.05E-85,0.88,0.72131148,0.79279279,44,50,61,1,0.98,Carbon Source Utilization,#c69c6d,98
+49,HexR-2,HexR,3.93E-25,7.00E-21,0.88888889,1,0.94117647,8,9,8,1,0.38,Carbon Source Utilization,#c69c6d,38
+31,HexR-1,HexR/GltR,1.28E-32,2.28E-28,0.92307692,0.75,0.82758621,12,13,16,2,0.97,Carbon Source Utilization,#c69c6d,97
+48,AtuR,AtuR/LaoR,2.34E-26,4.18E-22,1,0.5,0.66666667,10,10,20,2,0.2,Carbon Source Utilization,#c69c6d,20
+59,GlpR,GlpR,1.94E-09,3.46E-05,1,0.375,0.54545455,3,3,8,1,0.29,Carbon Source Utilization,#c69c6d,29
+100,AcoR,AcoR,1.69E-19,3.01E-15,1,0.85714286,0.92307692,6,6,7,1,0.19,Carbon Source Utilization,#c69c6d,19
+7,RoxR,RoxR,2.08E-07,0.00180219,1,0.08823529,0.16216216,3,3,34,1,0.58,Energy Metabolism,#ff99ff,58
+16,RpoH,RpoH,2.20E-12,3.92E-08,1,0.17857143,0.3030303,5,5,28,1,0.62,Heat Shock Response,#fcee21,62
+43,Zur-1,Zur/Cobalamin,1.73E-13,3.08E-09,0.19512195,0.44444444,0.27118644,8,41,18,2,0.1,Metal Homeostasis,#f7931e,10
+101,PhnR,PhnF/PhnR,2.61E-07,0.00465424,0.2173913,0.13888889,0.16949153,5,23,36,2,0.21,Metal Homeostasis,#f7931e,21
+45,Anr-1,NrdR/Anr,4.85E-20,8.65E-16,0.32352941,0.5,0.39285714,11,34,22,2,0.52,Metal Homeostasis,#f7931e,52
+33,CysB-2,CysB/YdfF,1.14E-09,2.03E-05,0.46153846,0.10909091,0.17647059,6,13,55,2,1.75,Metal Homeostasis,#f7931e,175
+84,CysB-1,YdfF/CysB,1.64E-15,2.92E-11,0.53846154,0.38888889,0.4516129,7,13,18,2,0.8,Metal Homeostasis,#f7931e,80
+9,LasR,LasR/MvfR,3.56E-21,6.35E-17,0.57894737,0.33333333,0.42307692,11,19,33,2,1.18,Metal Homeostasis,#f7931e,118
+108,Fur,Fur,4.70E-16,8.38E-12,0.71428571,1,0.83333333,5,7,5,1,0.36,Metal Homeostasis,#f7931e,36
+89,Zur-2,Zur/yybP-ykoY,6.68E-37,1.19E-32,0.94736842,0.32727273,0.48648649,18,19,55,2,1.01,Metal Homeostasis,#f7931e,101
+4,FpvR,FpvR,1.96E-24,5.83E-21,1,0.8,0.88888889,8,8,10,1,0.39,Metal Homeostasis,#f7931e,39
+10,AtsR,AtsR,1.52E-06,0.00900622,1,0.04615385,0.08823529,3,3,65,1,0.94,Metal Homeostasis,#f7931e,94
+90,CueR,CueR,1.78E-11,3.18E-07,1,0.30769231,0.47058824,4,4,13,1,0.2,Metal Homeostasis,#f7931e,20
+96,FoxR,FoxR,0.000089,0.000178,1,0.037736,0.072727,2,2,53,1,0.91,Metal Homeostasis,#f7931e,91
+103,CysB-3,YdfF/CysB,1.58E-08,0.00028141,1,0.2,0.33333333,3,3,15,1,0.39,Metal Homeostasis,#f7931e,39
+62,MvfR,MvfR,1.00E-20,1.78E-16,0.63636364,1,0.77777778,7,11,7,1,0.52,Miscellaneous Metabolism,#66ffff,52
+22,ErbR-2,ErbR,1.12E-26,9.95E-23,0.90909091,0.625,0.74074074,10,11,16,1,0.32,Miscellaneous Metabolism,#66ffff,32
+6,MdcR,MdcR,1.09E-21,1.95E-17,1,0.77777778,0.875,7,7,9,1,0.29,Miscellaneous Metabolism,#66ffff,29
+73,BexR,BexR,2.14E-20,3.81E-16,1,0.34782609,0.51612903,8,8,23,1,0.32,Miscellaneous Metabolism,#66ffff,32
+81,AntR,AntR,6.75E-19,1.20E-14,1,0.75,0.85714286,6,6,8,1,0.38,Miscellaneous Metabolism,#66ffff,38
+17,XisF4-1,CueR/XisF4,6.69E-08,0.00059619,0.4,0.06666667,0.11428571,6,15,90,2,0.54,Prophages,#ff3366,54
+78,Sigma-70,Sigma-70,5.63E-67,1.00E-62,1,0.6,0.75,30,30,50,1,1.22,Prophages,#ff3366,122
+80,XisF4-2,XisF4,0,0,1,1,1,11,11,11,1,0.35,Prophages,#ff3366,35
+2,QscR-1,QscR,3.53E-18,6.29E-14,0.33333333,1,0.5,7,21,7,1,0.38,Quorum sensing,#9966ff,38
+47,Sfa2,Sfa2,7.44E-39,1.33E-34,1,0.51612903,0.68085106,16,16,31,1,0.65,Secretion system,#ccff33,65
+75,TagR1,TagR1,9.29E-38,1.66E-33,1,0.17460317,0.2972973,22,22,126,1,1.19,Secretion system,#ccff33,119
+88,ExsB,ExsB,1.03E-29,1.83E-25,1,0.33333333,0.5,13,13,39,1,0.81,Secretion system,#ccff33,81
+39,RpoS-1,AlgU/RpoN,3.81E-08,0.0006783,0.22222222,0.07228916,0.10909091,12,54,166,2,1.42,Stress response,#33ff99,142
+83,RpoS-2,RpoS/Sfa3,6.57E-21,1.17E-16,0.53333333,0.15533981,0.2406015,16,30,103,2,2.99,Stress response,#33ff99,299
+32,FleN-1,FleN/AmpR,2.20E-09,3.92E-05,0.33333333,0.14285714,0.2,6,18,42,2,0.41,Structural Components,#ffcc99,41
+85,AmrZ,AmrZ/AlgR,3.25E-24,5.79E-20,0.76470588,0.24074074,0.36619718,13,17,54,2,0.38,Structural Components,#ffcc99,38
+69,FleN-2,FleN,8.41E-29,7.50E-25,0.8125,0.43333333,0.56521739,13,16,30,1,0.31,Structural Components,#ffcc99,31
+64,PprB,PprB,3.47E-13,6.18E-09,1,0.25,0.4,5,5,20,1,1.02,Structural Components,#ffcc99,102
